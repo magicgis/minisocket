@@ -1,0 +1,10 @@
+c:\users\zxyq\documents\visual studio 2010\Projects\Server\Server\bin\Debug\Server.exe
+c:\users\zxyq\documents\visual studio 2010\Projects\Server\Server\bin\Debug\Server.pdb
+c:\users\zxyq\documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\Server.exe
+c:\users\zxyq\documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\ZXYQ\Documents\Visual Studio 2010\Projects\Server\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\ZXYQ\Desktop\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\ZXYQ\Desktop\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\ZXYQ\Desktop\Server\Server\bin\Debug\Server.exe
+C:\Users\ZXYQ\Desktop\Server\Server\bin\Debug\Server.pdb
+C:\Users\ZXYQ\Desktop\Server\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
