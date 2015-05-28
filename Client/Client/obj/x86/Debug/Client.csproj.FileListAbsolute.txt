@@ -1,0 +1,16 @@
+c:\users\zxyq\documents\visual studio 2010\Projects\Client\Client\bin\Debug\Client.exe
+c:\users\zxyq\documents\visual studio 2010\Projects\Client\Client\bin\Debug\Client.pdb
+c:\users\zxyq\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\Client.Form1.resources
+c:\users\zxyq\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\Client.Properties.Resources.resources
+c:\users\zxyq\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+c:\users\zxyq\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\Client.exe
+c:\users\zxyq\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\Client.pdb
+C:\Users\ZXYQ\Documents\Visual Studio 2010\Projects\Client\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\ZXYQ\Desktop\Client\Client\obj\x86\Debug\Client.exe
+C:\Users\ZXYQ\Desktop\Client\Client\obj\x86\Debug\Client.pdb
+C:\Users\ZXYQ\Desktop\Client\Client\bin\Debug\Client.exe
+C:\Users\ZXYQ\Desktop\Client\Client\bin\Debug\Client.pdb
+C:\Users\ZXYQ\Desktop\Client\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\ZXYQ\Desktop\Client\Client\obj\x86\Debug\Client.Form1.resources
+C:\Users\ZXYQ\Desktop\Client\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\ZXYQ\Desktop\Client\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
